@@ -1,0 +1,152 @@
+From results of q1 is mentioned below, we can see that in the Monthwise Yearly Change, Percentage table the months starting from march have seen the worst drop in incoming tourists in year 2020 and improved in late 2021. By seeing the changes in years of 2020, 2021 we can say that the Incoming Tourists have significantly decreased to India.
+
+From results of q2 (by fee), we can observe
+For year 2020 maximum tourists are observed in  Jan
+For year 2020 minimum tourists are observed in  Apr
+For year 2021 minimum tourists are observed in  May
+For year 2021 maximum tourists are observed in  Dec
+
+So we can see that from the fee collection perspective, the time from Mar 2020 to May 2021 was very low in terms of income from Incoming Tourists which is basically the COVID time.
+
+
+From q4 results (outgoing), we can observe that
+Max Positive Change is seen in 2021-22
+Max Negative Change is seen in 2019-20
+Max Change is seen in months of Jan-Feb for the year 2020
+Min Change is seen in months of Mar-Apr for the year 2020
+Min Change is seen in months of May-Jun for the year 2021
+Max Change is seen in months of Jan-Feb for the year 2021
+
+So this too, following the same trends with above conclusions tells that the time between Mar 2020 to May 2021 has seen low Outgoing Tourists from India which was an effect of COVID.
+
+
+
+
+
+##############################################################################################################################################################################
+
+q1 Results:
+
+Monthwise Yearly Change, Absolute
+       2013-14    2014-16   2016-17   2017-18  2018-19    2019-20    2020-21  \
+Jan    37465.0    86747.0  119576.0   80918.0  66013.0     8210.0 -1024588.0   
+Feb    67109.0    93104.0   82243.0  118234.0  41257.0   -72076.0  -908128.0   
+Mar    50911.0   118666.0   76829.0  135603.0 -43303.0  -649932.0  -194536.0   
+Apr    84741.0    56683.0  125895.0   27134.0  29618.0  -771831.0    75898.0   
+May    47590.0    62423.0   94942.0  -15895.0   8623.0  -611372.0    16001.0   
+Jun    50805.0    44944.0  116498.0   20465.0  42511.0  -717856.0    27480.0   
+Jul  5182444.0 -4955037.0   45475.0   27184.0  11632.0  -805470.0    59846.0   
+Aug    89412.0    76361.0   67018.0   66864.0  14844.0  -781076.0    72967.0   
+Sep    55581.0    99035.0  111787.0     -70.0  31619.0  -723346.0    87494.0   
+Oct    70303.0    73372.0  125206.0   23247.0  54794.0  -903523.0   149921.0   
+Nov    31574.0   112783.0  119458.0   14831.0  79871.0 -1021463.0   192890.0   
+Dec    63563.0   136231.0  146465.0   23658.0  34900.0 -1135854.0   227103.0   
+
+      2021-22  
+Jan  625659.0  
+Feb  578257.0  
+Mar  505762.0  
+Apr  371862.0  
+May  397688.0  
+Jun  415153.0  
+Jul  433926.0  
+Aug  393610.0  
+Sep  337900.0  
+Oct  406680.0  
+Nov  470056.0  
+Dec  503934.0  
+Monthwise Yearly Change, Percentage
+         2013-14    2014-16    2016-17    2017-18   2018-19    2019-20  \
+Jan     5.201153  11.447427  14.158831   8.393034  6.316870   0.738947   
+Feb     9.746155  12.320592   9.689532  12.699337  3.932013  -6.609348   
+Mar     7.960690  17.186986   9.495530  15.306185 -4.238996 -66.439182   
+Apr    18.807093  10.588600  21.265904   3.779640  3.975394 -99.635965   
+May    11.400086  13.423060  17.999644  -2.553791  1.421734 -99.388103   
+Jun    11.259399   8.952489  21.298714   3.084540  6.215649 -98.817531   
+Jul  1023.334854 -87.100534   6.196906   3.488218  1.442294 -98.453170   
+Aug    18.384745  13.262875  10.277085   9.297915  1.888566 -97.532457   
+Sep    12.254360  19.451351  18.380669  -0.009723  4.392174 -96.251961   
+Oct    11.754487  10.977292  16.879356   2.681389  6.155087 -95.609180   
+Nov     4.302086  14.733304  13.601357   1.486462  7.887956 -93.502893   
+Dec     7.736669  15.390829  14.339983   2.025791  2.929086 -92.617079   
+
+         2020-21      2021-22  
+Jan   -91.542372   660.939976  
+Feb   -89.168532   524.201356  
+Mar   -59.254837   378.088930  
+Apr  2691.418440   472.397673  
+May   425.106270  2012.081963  
+Jun   319.906868  1150.964791  
+Jul   472.903991   598.510365  
+Aug   369.247508   424.478043  
+Sep   310.625910   292.146878  
+Oct   361.307659   212.459839  
+Nov   271.764093   178.141261  
+Dec   250.820596   158.645918  
+Total Incoming Tourists, Yearly
+            Year
+2013   6967601.0
+2014  12799099.0
+2016   8804411.0
+2017  10035803.0
+2018  10557976.0
+2019  10930355.0
+2020   2744766.0
+2021   1527114.0
+2022   6967601.0
+Yearly Change in Incoming Tourist
+              Year
+2013-14  5831498.0
+2014-16 -3994688.0
+2016-17  1231392.0
+2017-18   522173.0
+2018-19   372379.0
+2019-20 -8185589.0
+2020-21 -1217652.0
+2021-22  5440487.0
+Monthly Change in Incoming Tourists, Yearly
+             2013       2014      2016      2017      2018      2019  \
+Jan-Feb  -31752.0    -2108.0    4249.0  -33084.0    4232.0  -20524.0   
+Feb-Mar  -49039.0   -65237.0  -39675.0  -45089.0  -27720.0 -112280.0   
+Mar-Apr -188950.0  -155120.0 -217103.0 -168037.0 -276506.0 -203585.0   
+Apr-May  -33127.0   -70278.0  -64538.0  -95491.0 -138520.0 -159515.0   
+May-Jun   33770.0    36985.0   19506.0   41062.0   77422.0  111310.0   
+Jun-Jul   55204.0  5186843.0  186862.0  115839.0  122558.0   91679.0   
+Jul-Aug  -20089.0 -5113121.0  -81723.0  -60180.0  -20500.0  -17288.0   
+Aug-Sep  -32777.0   -66608.0  -43934.0     835.0  -66099.0  -49324.0   
+Sep-Oct  144534.0   159256.0  133593.0  147012.0  170329.0  193504.0   
+Oct-Nov  135828.0    97099.0  136510.0  130762.0  122346.0  147423.0   
+Nov-Dec   87658.0   119647.0  143095.0  170102.0  178929.0  133958.0   
+
+             2020     2021      2022       Total  
+Jan-Feb -100810.0  15650.0  -31752.0   -391798.0  
+Feb-Mar -690136.0  23456.0  -49039.0  -2109518.0  
+Mar-Apr -325484.0 -55050.0 -188950.0  -3557570.0  
+Apr-May     944.0 -58953.0  -33127.0  -1305210.0  
+May-Jun    4826.0  16305.0   33770.0    749912.0  
+Jun-Jul    4065.0  36431.0   55204.0  11709370.0  
+Jul-Aug    7106.0  20227.0  -20089.0 -10611314.0  
+Aug-Sep    8406.0  22933.0  -32777.0   -518690.0  
+Sep-Oct   13327.0  75754.0  144534.0   2363686.0  
+Oct-Nov   29483.0  72452.0  135828.0   2015462.0  
+Nov-Dec   19567.0  53780.0   87658.0   1988788.0  
+Maximum Positive Change Yearwise is observed in year 2013-14
+Maximum Negative Change Yearwise is observed in year 2019-20
+Max Change is seen in months of Sep-Oct for the year 2013
+Max Change is seen in months of Jun-Jul for the year 2014
+Max Change is seen in months of Jun-Jul for the year 2016
+Max Change is seen in months of Nov-Dec for the year 2017
+Max Change is seen in months of Nov-Dec for the year 2018
+Max Change is seen in months of Sep-Oct for the year 2019
+Max Change is seen in months of Oct-Nov for the year 2020
+Max Change is seen in months of Sep-Oct for the year 2021
+Max Change is seen in months of Sep-Oct for the year 2022
+Min Change is seen in months of Mar-Apr for the year 2013
+Min Change is seen in months of Jul-Aug for the year 2014
+Min Change is seen in months of Mar-Apr for the year 2016
+Min Change is seen in months of Mar-Apr for the year 2017
+Min Change is seen in months of Mar-Apr for the year 2018
+Min Change is seen in months of Mar-Apr for the year 2019
+Min Change is seen in months of Feb-Mar for the year 2020
+Min Change is seen in months of Apr-May for the year 2021
+Min Change is seen in months of Mar-Apr for the year 2022
